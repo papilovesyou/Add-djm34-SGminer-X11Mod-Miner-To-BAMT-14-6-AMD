@@ -2,7 +2,7 @@
 mine stop
 sleep 5
 cd /opt/miners/
-git clone https://github.com/lasybear/sph-sgminer_x11mod.git sgminer-x11mod
+git clone https://github.com/djm34/sph-sgminer_x11mod sgminer-x11mod
 cd /opt/miners/sgminer-x11mod
 cp /opt/miners/sgminer-4.1.0-sph/ADL_SDK/* /opt/miners/sgminer-x11mod/ADL_SDK/
 make clean
@@ -47,6 +47,6 @@ patch /etc/bamt/sgminer-x11mod.conf <<.
 > "api-allow": "W:127.0.0.1",
 > 
 .
-echo 'X11Mod Miner Installed.'
+echo 'djm34 X11Mod Miner Installed.'
 echo 'Please review your /etc/bamt/bamt.conf to enable.'
 echo 'Configure /etc/bamt/sgminer-x11mod.conf with pool'
