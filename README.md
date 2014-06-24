@@ -1,7 +1,7 @@
 Add-DJM34's-SGminer-X11Mod-Miner-To-BAMT
 ========================
 
-This is script will install an optimised x11 algorithm miner, developed by djm34, within BAMT 1.6.2
+This is script will install an optimised x11 algorithm miner, developed by djm34, within BAMT 1.6.2 for use with AMD 14.6 Drivers
 
 #Minable Coins
 
