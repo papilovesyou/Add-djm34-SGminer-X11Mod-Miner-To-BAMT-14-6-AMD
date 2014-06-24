@@ -21,7 +21,7 @@ patch /etc/bamt/bamt.conf <<.
 115a116
 >   cgminer_opts: --api-listen --config /etc/bamt/djm34-x11mod.conf
 124a126
->   # Sgminer X11 Mod "DRK"
+>   # djm34 Sgminer X11 Mod "DRK"
 130a133
 >   miner-djm34-x11mod: 1
 .
