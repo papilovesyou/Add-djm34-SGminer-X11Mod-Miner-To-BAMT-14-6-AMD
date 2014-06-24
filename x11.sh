@@ -49,4 +49,4 @@ patch /etc/bamt/djm34-x11mod.conf <<.
 .
 echo 'djm34 X11Mod Miner Installed.'
 echo 'Please review your /etc/bamt/bamt.conf to enable.'
-echo 'Configure /etc/bamt/sgminer-x11mod.conf with pool'
+echo 'Configure /etc/bamt/djm34-x11mod.conf with pool'
