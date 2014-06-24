@@ -1,7 +1,7 @@
-Add-SGminer-X11Mod-Miner-To-BAMT
+Add-DJM34's-SGminer-X11Mod-Miner-To-BAMT
 ========================
 
-This is script will install an optimised x11 algorithm miner within BAMT 1.6.0
+This is script will install an optimised x11 algorithm miner, developed by djm34, within BAMT 1.6.2
 
 #Minable Coins
 
@@ -25,3 +25,5 @@ Then review your bamt.conf and you sgminer-x11mod.conf
 ##Donate
 
 BTC: 1GeA7ZeKV5yH68EkMQCLb2ygm9K4qotT2x
+
+
