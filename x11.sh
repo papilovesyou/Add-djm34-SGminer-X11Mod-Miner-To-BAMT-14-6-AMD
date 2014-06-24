@@ -23,11 +23,11 @@ patch /etc/bamt/bamt.conf <<.
 124a126
 >   # Sgminer X11 Mod "DRK"
 130a133
->   miner-sgminer-x11mod: 1
+>   miner-djm34-x11mod: 1
 .
 patch /opt/bamt/common.pl <<.
 1477a1478,1480
->       } elsif (\${\$conf}{'settings'}{'miner-sgminer-x11mod'}) {
+>       } elsif (\${\$conf}{'settings'}{'miner-djm34-x11mod'}) {
 >         \$cmd = "cd /opt/miners/sgminer-x11mod/;/usr/bin/screen -d -m -S sgminer-x11 /opt/miners/sgminer-x11mod/sgminer \$args";
 >         \$miner = "sgminer-x11";
 .
