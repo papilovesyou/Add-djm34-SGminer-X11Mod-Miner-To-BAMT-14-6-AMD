@@ -15,11 +15,11 @@ sleep 5
 make install
 sleep 5
 clear
-cp example.conf /etc/bamt/sgminer-x11mod.conf
+cp example.conf /etc/bamt/djm34-x11mod.conf
 cd /etc/bamt/
 patch /etc/bamt/bamt.conf <<.
 115a116
->   cgminer_opts: --api-listen --config /etc/bamt/sgminer-x11mod.conf
+>   cgminer_opts: --api-listen --config /etc/bamt/djm34-x11mod.conf
 124a126
 >   # Sgminer X11 Mod "DRK"
 130a133
@@ -32,7 +32,7 @@ patch /opt/bamt/common.pl <<.
 >         \$miner = "sgminer-x11";
 .
 cd /etc/bamt/
-patch /etc/bamt/sgminer-x11mod.conf <<.
+patch /etc/bamt/djm34-x11mod.conf <<.
 22c22
 < "kernel" : "ckolivas,ckolivas,ckolivas",
 ---
