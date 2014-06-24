@@ -16,18 +16,20 @@ This is script will install an optimised x11 algorithm miner, developed by djm34
 
 ```bash
 git clone https://github.com/g00se01101/Add-djm34-SGminer-X11Mod-Miner-To-BAMT-14-6-AMD.git
-cd Add-SGminer-X11Mod-Miner-To-BAMT/
+cd Add-djm34-SGminer-X11Mod-Miner-To-BAMT-14-6-AMD/
 ./x11.sh
 ```
 
 Then review your bamt.conf and you sgminer-x11mod.conf
 
 ##Donate
-MODIFIED FOR 14.6 INSTALLER:
-BTC: 13STLYc5sGsJRKAyiHczceizbStNnB6z4E
-DRK: Xyt4Dw5oqzcwUvCJWfF4DxS1JZTSHHXUEv
 
 ORIGINAL INSTALLER DEVELOPER:
+
 BTC: 1GeA7ZeKV5yH68EkMQCLb2ygm9K4qotT2x
 
+MODIFIED FOR 14.6 INSTALLER:
+
+BTC: 13STLYc5sGsJRKAyiHczceizbStNnB6z4E
+DRK: Xyt4Dw5oqzcwUvCJWfF4DxS1JZTSHHXUEv
 
